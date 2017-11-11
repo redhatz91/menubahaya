@@ -20,7 +20,7 @@ echo
 	#fi
 
 	clear
-        echo -e "\e[40;38;5;166m
+        
 	#echo "--------------- Selamat datang di Server - IP: $MYIP ---------------"
 	echo ""
 	echo ""
